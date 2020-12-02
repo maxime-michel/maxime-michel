@@ -1,0 +1,5 @@
+main:
+  - title: "English"
+    url: /en/
+  - title: "Français"
+    url: /
